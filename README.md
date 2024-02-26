@@ -1,5 +1,6 @@
 # SQL-challenge
 
+
 ## Steps generated before starting
 
 - Create a new repository for this project called sql-challenge.
@@ -71,8 +72,7 @@ I listed the frequency counts, in descending order, of all employee surnames.
 ## Screenshots
 
 
-![alt text](<QuickDBD-export (1)-1.png>)
-
+![alt text](QuickDBD-export.png)
 
 
 ## Submission
